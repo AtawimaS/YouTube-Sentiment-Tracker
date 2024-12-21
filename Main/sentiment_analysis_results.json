@@ -1,0 +1,1 @@
+{'TFIDF_Results': {'logistic': {'positive': 60.0, 'negative': 40.0}, 'svc': {'positive': 70.0, 'negative': 30.0}}, 'Lexicon_Results': {'afinn': {'positive': 56.666666666666664, 'negative': 3.3333333333333335, 'neutral': 40.0}, 'vader': {'positive': 63.33333333333333, 'negative': 16.666666666666664, 'neutral': 20.0}}}
